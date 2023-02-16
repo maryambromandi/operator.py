@@ -12,4 +12,4 @@ num1 = =//4
 
 num1 = num2 
 
-dei num1
+del num1
